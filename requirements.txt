@@ -11,7 +11,7 @@ cffi==1.12.3
 chardet==3.0.4
 Click==7.0
 crcmod==1.7
-cryptography==2.7
+cryptography==3.2
 Flask==1.0.3
 Flask-Babel==0.12.2
 Flask-Login==0.4.1
