@@ -17,7 +17,7 @@ click==7.1.2
 click-didyoumean==0.0.3
 click-repl==0.1.6
 crcmod==1.7
-cryptography==3.2.1
+cryptography==3.3.2
 Flask==1.1.2
 Flask-Babel==2.0.0
 Flask-Login==0.5.0
