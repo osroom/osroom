@@ -1,4 +1,4 @@
-aiohttp==3.7.2
+aiohttp==3.7.4
 amqp==5.0.1
 asn1crypto==1.4.0
 async-timeout==3.0.1
