@@ -46,7 +46,7 @@ multidict==5.0.0
 oauthlib==3.1.0
 olefile==0.46
 paramiko==2.7.2
-Pillow==8.0.1
+Pillow==8.1.1
 pkg-resources==0.0.0
 prompt-toolkit==3.0.8
 psutil==5.7.3
