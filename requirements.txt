@@ -59,7 +59,7 @@ pymongo==3.11.0
 PyNaCl==1.4.0
 python-dotenv==0.15.0
 pytz==2020.1
-PyYAML==5.3.1
+PyYAML==5.4
 redis==3.5.3
 regex==2020.10.28
 requests==2.24.0
